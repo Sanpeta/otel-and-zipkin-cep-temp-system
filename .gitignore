@@ -22,7 +22,7 @@ go.work
 go.work.sum
 SQL.png
 
-app.env
+
 *.http
 .air.toml
 /tmp
